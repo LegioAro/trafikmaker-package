@@ -102,10 +102,11 @@
     -webkit-text-fill-color: transparent;
     background-clip: text;
     text-fill-color: transparent;
-    margin-bottom: 56px;
+    margin-bottom: 8px;
   }
 
   &__timer {
+    margin-top: 56px;
   }
 
   &__timer-text {
